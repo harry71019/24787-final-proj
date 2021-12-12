@@ -3,6 +3,8 @@ The Cleaned-Data.csv is the symptoms checker data set, which contains symptoms, 
 
 The test.csv and train.csv files are the data we extract from the Cleaned-Data.csv file. We only keep symptoms and the class.
 
+The test_outputs.csv file is the result of classification from decisionTree.py file.
+
 The Covid19-dataset is the chest X-ray image data, which contains test folder and train folder. And each folder has 3 classes: Covid, Normal and Viral Pneumonia.
 
 The preprocessing.ipynb contains how we clean the data and PCA analysis for training data.
